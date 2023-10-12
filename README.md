@@ -36,5 +36,5 @@ If you find this project useful and use it in your research, please consider cit
 The code is built on [DARTS](https://github.com/quark0/darts), one of the most well-known differentiable architecture search methods and [SANE](https://github.com/LARS-research/SANE), a differentiable architecture search for graph neural network (GNN).
 
 ## Misc
-If you have any questions about this project, you can open issues, thus it can help more people who are interested in this project. We will reply to your issues as soon as possible. You are also welcomed to reach us by hwxu@mail.nwpu.edu.cn
+If you have any questions about this project, you can open issues, thus it can help more people who are interested in this project. We will reply to your issues as soon as possible.
 
